@@ -2,8 +2,8 @@
 
 Assignment 1
 
-Name: Adarsh Patil\n
+Name: Adarsh Patil<br>
 Student ID: 014749228
 
-Name: Saurabh Dake\n
+Name: Saurabh Dake<br>
 Student ID: 015970058
